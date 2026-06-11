@@ -1,0 +1,4 @@
+username,group,shell,ssh_public_key
+alice,developers,/bin/bash,
+bob,ops,/bin/bash,
+charlie,developers,/bin/zsh,
